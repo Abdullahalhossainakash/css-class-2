@@ -1,0 +1,29 @@
+.card{
+    border-radius: 25px;
+    background-image: url(../img\ 3.jpg);
+    background-color:rgba(135, 207, 235, 0.925);
+    background-blend-mode:multiply;
+    width: 400px;
+    margin: 50px auto;
+    padding: 40px 35px ;
+    }
+.card h2{
+    font-size: 35px;
+    margin: 15px;
+}
+.card p{
+    font-size: 18px;
+    line-height: 27px;
+    text-align: justify;
+}
+.card a{
+    color: beige;
+    background-color:#3399FF;
+    text-decoration: none;
+    padding: 15px 25px;
+    border-radius: 5px;
+    display: inline block;
+}
+.card a:hover {
+background-color: blue;
+}
